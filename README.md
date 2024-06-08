@@ -1,2 +1,3 @@
 # Controls-and-compliance-checklist-
 Controls and compliance checklist 
+Botium Toys is undergoing this audit with the goal of assessing the existing assets as per industry standards and to reducing risk of loss from the occurrence of any undesirable events . The audit is responsible for documenting findings intended to providing recommendations or solutions, ensuring that the team comply with regulations related to internally processing ,accepting online payments and conducting business. This data is then effectively communicated to stakeholders reducing risks to assets and improving Botium Toys’ security posture.
